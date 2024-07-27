@@ -1,0 +1,16 @@
+PODS:
+  - XDBaseKit (1.0)
+
+DEPENDENCIES:
+  - XDBaseKit (from `../`)
+
+EXTERNAL SOURCES:
+  XDBaseKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XDBaseKit: 10dab5f3f00ae63fa51ffee6c70efd6b72cdb850
+
+PODFILE CHECKSUM: 2a468a1ca01d059e0ad95ffe69b5feb94ee702ce
+
+COCOAPODS: 1.15.2
