@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'XDBaseKit_Example' do
+  pod 'XDBaseKit', :path => '../'
+
+  target 'XDBaseKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
